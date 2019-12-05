@@ -1,0 +1,486 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Entrer un nom pour joueur 1: John\
+Entrer un nom pour joueur 2: Doe\
+\
+Le tour de John\
+Voici ton tableau \
+Joueur John : 0 points\
+\
+Vitrer \'e0 la position 6.\
+\
+J J B J R G O \
+O J B J R O O \
+O J B J R O O \
+O R B J R O O \
+O R B J R O O \
+6 5 4 3 2 1 0 \
+\
+Voici les lots\
+Lots : \
+R B G O O \
+R B G J O \
+J B J R G \
+O J G R G \
+4 3 2 1 0 \
+Surplus: []\
+\
+Quelle action voulez vous \'e9ffectuer?\
+1- Choisir un lot et placer \
+2- Changer le vitrer de position\
+>mauvaise entree\
+\
+Un choix valide SVP\
+Quelle action voulez vous \'e9ffectuer?\
+1- Choisir un lot et placer \
+2- Changer le vitrer de position\
+>1\
+\
+Quelle colonne du lot voulez vous choisir?\
+Choisissez une colone entre 0 et 4 ou entrez -1 pour choisir dans le surplus\
+>0\
+\
+Quelle couleur voulez vous choisir?\
+'G', 'J', 'B', 'R', o\'f9 'O' \
+>o\
+\
+Sur quelle colonne voulez vous placer les vitres?\
+Choisissez une colone entre 0 et 6\
+>1\
+\
+-------------------------\
+\
+Le tour de Doe\
+Voici ton tableau \
+Joueur Doe : 0 points\
+\
+Vitrer \'e0 la position 6.\
+\
+J J B J R G O \
+O J B J R O O \
+O J B J R O O \
+O R B J R O O \
+O R B J R O O \
+6 5 4 3 2 1 0 \
+\
+Voici les lots\
+Lots : \
+R B G O . \
+R B G J . \
+J B J R . \
+O J G R . \
+4 3 2 1 0 \
+Surplus: [GG]\
+\
+Quelle action voulez vous \'e9ffectuer?\
+1- Choisir un lot et placer \
+2- Changer le vitrer de position\
+>2\
+\
+D\'e9ja a gauche\
+\
+-------------------------\
+\
+Le tour de Doe\
+Voici ton tableau \
+Joueur Doe : 0 points\
+\
+Vitrer \'e0 la position 6.\
+\
+J J B J R G O \
+O J B J R O O \
+O J B J R O O \
+O R B J R O O \
+O R B J R O O \
+6 5 4 3 2 1 0 \
+\
+Voici les lots\
+Lots : \
+R B G O . \
+R B G J . \
+J B J R . \
+O J G R . \
+4 3 2 1 0 \
+Surplus: [GG]\
+\
+Quelle action voulez vous \'e9ffectuer?\
+1- Choisir un lot et placer \
+2- Changer le vitrer de position\
+>1\
+\
+Quelle colonne du lot voulez vous choisir?\
+Choisissez une colone entre 0 et 4 ou entrez -1 pour choisir dans le surplus\
+>-1\
+\
+Quelle couleur voulez vous choisir?\
+'G', 'J', 'B', 'R', o\'f9 'O' \
+>g\
+\
+Sur quelle colonne voulez vous placer les vitres?\
+Choisissez une colone entre 0 et 6\
+>1\
+\
+-------------------------\
+\
+Le tour de John\
+Voici ton tableau \
+Joueur John : 2 points\
+\
+Vitrer \'e0 la position 1.\
+\
+J J B J R G O \
+O J B J R x O \
+O J B J R x O \
+O R B J R O O \
+O R B J R O O \
+6 5 4 3 2 1 0 \
+\
+Voici les lots\
+Lots : \
+R B G O . \
+R B G J . \
+J B J R . \
+O J G R . \
+4 3 2 1 0 \
+Surplus: []\
+\
+Quelle action voulez vous \'e9ffectuer?\
+1- Choisir un lot et placer \
+2- Changer le vitrer de position\
+>1\
+\
+Quelle colonne du lot voulez vous choisir?\
+Choisissez une colone entre 0 et 4 ou entrez -1 pour choisir dans le surplus\
+>1\
+\
+Quelle couleur voulez vous choisir?\
+'G', 'J', 'B', 'R', o\'f9 'O' \
+>o\
+\
+Sur quelle colonne voulez vous placer les vitres?\
+Choisissez une colone entre 0 et 1\
+>1\
+\
+-------------------------\
+\
+Le tour de Doe\
+Voici ton tableau \
+Joueur Doe : 0 points\
+\
+Vitrer \'e0 la position 1.\
+\
+J J B J R x O \
+O J B J R O O \
+O J B J R O O \
+O R B J R O O \
+O R B J R O O \
+6 5 4 3 2 1 0 \
+\
+Voici les lots\
+Lots : \
+R B G . . \
+R B G . . \
+J B J . . \
+O J G . . \
+4 3 2 1 0 \
+Surplus: [JRR]\
+\
+Quelle action voulez vous \'e9ffectuer?\
+1- Choisir un lot et placer \
+2- Changer le vitrer de position\
+>2\
+\
+-------------------------\
+\
+Le tour de John\
+Voici ton tableau \
+Joueur John : 3 points\
+\
+Vitrer \'e0 la position 1.\
+\
+J J B J R G O \
+O J B J R x O \
+O J B J R x O \
+O R B J R x O \
+O R B J R O O \
+6 5 4 3 2 1 0 \
+\
+Voici les lots\
+Lots : \
+R B G . . \
+R B G . . \
+J B J . . \
+O J G . . \
+4 3 2 1 0 \
+Surplus: [JRR]\
+\
+Quelle action voulez vous \'e9ffectuer?\
+1- Choisir un lot et placer \
+2- Changer le vitrer de position\
+>1\
+\
+Quelle colonne du lot voulez vous choisir?\
+Choisissez une colone entre 0 et 4 ou entrez -1 pour choisir dans le surplus\
+>4\
+\
+Quelle couleur voulez vous choisir?\
+'G', 'J', 'B', 'R', o\'f9 'O' \
+>o\
+\
+Sur quelle colonne voulez vous placer les vitres?\
+Choisissez une colone entre 0 et 1\
+>1\
+\
+-------------------------\
+\
+Le tour de Doe\
+Voici ton tableau \
+Joueur Doe : 0 points\
+\
+Vitrer \'e0 la position 6.\
+\
+J J B J R x O \
+O J B J R O O \
+O J B J R O O \
+O R B J R O O \
+O R B J R O O \
+6 5 4 3 2 1 0 \
+\
+Voici les lots\
+Lots : \
+. B G . . \
+. B G . . \
+. B J . . \
+. J G . . \
+4 3 2 1 0 \
+Surplus: [JRRRRJ]\
+\
+Quelle action voulez vous \'e9ffectuer?\
+1- Choisir un lot et placer \
+2- Changer le vitrer de position\
+>1\
+\
+Quelle colonne du lot voulez vous choisir?\
+Choisissez une colone entre 0 et 4 ou entrez -1 pour choisir dans le surplus\
+>-1\
+\
+Quelle couleur voulez vous choisir?\
+'G', 'J', 'B', 'R', o\'f9 'O' \
+>r\
+\
+Sur quelle colonne voulez vous placer les vitres?\
+Choisissez une colone entre 0 et 6\
+>2\
+\
+-------------------------\
+\
+Le tour de John\
+Voici ton tableau \
+Joueur John : 4 points\
+\
+Vitrer \'e0 la position 1.\
+\
+J J B J R G O \
+O J B J R x O \
+O J B J R x O \
+O R B J R x O \
+O R B J R x O \
+6 5 4 3 2 1 0 \
+\
+Voici les lots\
+Lots : \
+. B G . . \
+. B G . . \
+. B J . . \
+. J G . . \
+4 3 2 1 0 \
+Surplus: [JJ]\
+\
+Quelle action voulez vous \'e9ffectuer?\
+1- Choisir un lot et placer \
+2- Changer le vitrer de position\
+>1\
+\
+Quelle colonne du lot voulez vous choisir?\
+Choisissez une colone entre 0 et 4 ou entrez -1 pour choisir dans le surplus\
+>2\
+\
+Quelle couleur voulez vous choisir?\
+'G', 'J', 'B', 'R', o\'f9 'O' \
+>g\
+\
+Sur quelle colonne voulez vous placer les vitres?\
+Choisissez une colone entre 0 et 1\
+>1\
+\
+-------------------------\
+\
+Le tour de Doe\
+Voici ton tableau \
+Joueur Doe : 4 points\
+\
+Vitrer \'e0 la position 2.\
+\
+J J B J x x O \
+O J B J x O O \
+O J B J x O O \
+O R B J x O O \
+O R B J R O O \
+6 5 4 3 2 1 0 \
+\
+Voici les lots\
+Lots : \
+. B . . . \
+. B . . . \
+. B . . . \
+. J . . . \
+4 3 2 1 0 \
+Surplus: [JJJ]\
+\
+Quelle action voulez vous \'e9ffectuer?\
+1- Choisir un lot et placer \
+2- Changer le vitrer de position\
+>1\
+\
+Quelle colonne du lot voulez vous choisir?\
+Choisissez une colone entre 0 et 4 ou entrez -1 pour choisir dans le surplus\
+>-1\
+\
+Quelle couleur voulez vous choisir?\
+'G', 'J', 'B', 'R', o\'f9 'O' \
+>j\
+\
+Sur quelle colonne voulez vous placer les vitres?\
+Choisissez une colone entre 0 et 2\
+>0\
+\
+-------------------------\
+\
+Le tour de John\
+Voici ton tableau \
+Joueur John : 6 points\
+\
+Vitrer \'e0 la position 1.\
+\
+J J B J R x O \
+O J B J R x O \
+O J B J R x O \
+O R B J R x O \
+O R B J R x O \
+6 5 4 3 2 1 0 \
+\
+Voici les lots\
+Lots : \
+. B . . . \
+. B . . . \
+. B . . . \
+. J . . . \
+4 3 2 1 0 \
+Surplus: []\
+\
+Quelle action voulez vous \'e9ffectuer?\
+1- Choisir un lot et placer \
+2- Changer le vitrer de position\
+>1\
+\
+Quelle colonne du lot voulez vous choisir?\
+Choisissez une colone entre 0 et 4 ou entrez -1 pour choisir dans le surplus\
+>3\
+\
+Quelle couleur voulez vous choisir?\
+'G', 'J', 'B', 'R', o\'f9 'O' \
+>b\
+\
+Sur quelle colonne voulez vous placer les vitres?\
+Choisissez une colone entre 0 et 1\
+>1\
+\
+Colonne remplie\
+Quelle colonne du lot voulez vous choisir?\
+Choisissez une colone entre 0 et 1\
+>4\
+\
+-------------------------\
+\
+Le tour de Doe\
+Voici ton tableau \
+Joueur Doe : 1 points\
+\
+Vitrer \'e0 la position 0.\
+\
+J J B J x x O \
+O J B J x O O \
+O J B J x O O \
+O R B J x O O \
+O R B J R O O \
+6 5 4 3 2 1 0 \
+\
+\
+Voici les lots\
+Lots : \
+. . . . . \
+. . . . . \
+. . . . . \
+. . . . . \
+4 3 2 1 0 \
+Surplus: [J]\
+\
+Quelle action voulez vous \'e9ffectuer?\
+1- Choisir un lot et placer \
+2- Changer le vitrer de position\
+>1\
+\
+Quelle colonne du lot voulez vous choisir?\
+Choisissez une colone entre 0 et 4 ou entrez -1 pour choisir dans le surplus\
+>-1\
+\
+Quelle couleur voulez vous choisir?\
+'G', 'J', 'B', 'R', o\'f9 'O' \
+>j\
+\
+Sur quelle colonne voulez vous placer les vitres?\
+Choisissez une colone entre 0 et 0\
+>0\
+\
+-------------------------\
+\
+Nouveau lots\
+\
+Le tour de John\
+Voici ton tableau \
+Joueur John : 9 points\
+\
+Vitrer \'e0 la position 4.\
+\
+J J x J R x O \
+O J x J R x O \
+O J x J R x O \
+O R B J R x O \
+O R B J R x O \
+6 5 4 3 2 1 0 \
+\
+\
+Voici les lots\
+Lots : \
+B J G G O \
+O R R G J \
+J R J J R \
+J B G G R \
+4 3 2 1 0 \
+Surplus: []\
+\
+Quelle action voulez vous \'e9ffectuer?\
+1- Choisir un lot et placer \
+2- Changer le vitrer de position\
+>\
+\
+.\
+.\
+.\
+.\
+}

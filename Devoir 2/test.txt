@@ -1,0 +1,7 @@
+-----Facture-----
+
+Pomme--- 0.99$
+Orange--- 1.99$
+pain--- 2.49$
+
+TOTAL: 5.47$
